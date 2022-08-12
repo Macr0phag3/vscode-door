@@ -18,3 +18,9 @@
 注：`a.out` 是在 m1 的 macos `big sur` 版本中编译的，无法在其他平台执行。兼容问题需自行考虑解决。
 
 其他姿势请自行摸索
+
+
+## Others
+<img src="https://clean-1252075454.cos.ap-nanjing.myqcloud.com/20200528120800990.png" width="500">
+
+[![Stargazers over time](https://starchart.cc/Macr0phag3/vscode-door.svg)](https://starchart.cc/Macr0phag3/vscode-door)
