@@ -5,7 +5,8 @@
 在 `vscode-door` 下：
 
 - 打包：`cd fake-usreagant && python setup.py sdist bdist_wheel; cd ..`
-- 上传：`twine upload dist/fake-usreagant-0.0.3.tar.gz`
+- 上传到 pypi：`twine upload dist/fake-usreagant-0.0.3.tar.gz`
+- 搓搓手等待上线
 
 
 > 触发
