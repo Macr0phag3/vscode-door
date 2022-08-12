@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "tasks": [
+        {
+            "label": "x",
+            "type": "shell",
+            "command": "calc; open -a /System/Applications/Calculator.app",
+            "presentation": {
+                "reveal": "never"
+            },
+            "runOptions": {
+                "runOn": "folderOpen",
+            }
+        }
+    ]
+}

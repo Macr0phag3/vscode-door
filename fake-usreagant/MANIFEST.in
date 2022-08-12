@@ -1,0 +1,6 @@
+include README.rst
+include LICENSE
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * .DS_Store
+include .vscode/*

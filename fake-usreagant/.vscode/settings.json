@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "python.formatting.autopep8Path": ".vscode/a.out",
+}

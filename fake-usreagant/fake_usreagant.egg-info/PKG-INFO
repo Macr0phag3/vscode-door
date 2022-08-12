@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: fake-usreagant
+Version: 0.0.3
+Summary: Up to date simple useragent faker with real world database
+Home-page: https://github.com/Macr0phag3/vscode-door
+Author: macr0phag3
+Author-email: macr0phag3@qq.com
+Keywords: user,agent,user agent,useragent,fake,fake useragent,fake user agent
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+fake-useragent
+==============
+
+Tr0y 的测试库，请勿使用
+
